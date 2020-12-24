@@ -1,4 +1,3 @@
-# glm
-Modelos lineales generalizados
+# Pricing
 
-Introducción a pricing de autos, utilizando modelos lineales generalizados.
+Introducción a modelos de pricing utilizando modelos lineales generalizados.
